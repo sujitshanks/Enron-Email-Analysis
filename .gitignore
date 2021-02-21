@@ -1,6 +1,9 @@
-.RData
-.RHistory
-.pdf
-.tgz
-.csv
-.txt
+*.RData
+*.RHistory
+*.pdf
+*.tgz
+*.csv
+*.txt
+*.csv.gz
+*.com.txt
+*.pkl
